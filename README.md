@@ -1,5 +1,5 @@
 # Truncated Edge-based Color Constancy
-#### [[Paper (TBD!)](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.pdf)]
+#### [[Paper (preprint)](https://drive.google.com/file/d/1fL_bD9b4-ac4kkt9G04I2fjdA_MjGXTY/view?usp=sharing)]
 [Simone Bianco](http://www.ivl.disco.unimib.it/people/simone-bianco/)<sup>1</sup>, [Marco Buzzelli](http://www.ivl.disco.unimib.it/people/marco-buzzelli/)<sup>1</sup>
 
 <sup>1</sup>University of Milano-Bicocca, Italy
