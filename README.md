@@ -5,6 +5,7 @@ Official implementation of the paper [[Truncated Edge-based Color Constancy](htt
 
 <sup>1</sup>University of Milano-Bicocca, Italy
 
+### Abstract
 In this paper we propose the truncated edge-based
 color constancy. It is based on, and extends, the [Edge-Based Color Constancy](https://ieeexplore.ieee.org/document/4287009) [[code](http://cat.cvc.uab.es/~joost/code/ColorConstancy.zip)]
 framework by introducing the use of truncated Gaussian filters.
@@ -24,6 +25,6 @@ operations.
 ### Results 
 <img src="web/images/Table1.png" width="800">
 
-### Run
+### Running the code
 You can run the file `general_cc_truncated.m` in Matlab to perform illuminant estimation with the truncated edge-based color constancy.
 For a demo, you can run the file `ColorConstancyDemo.m`.
