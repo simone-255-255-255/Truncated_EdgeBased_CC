@@ -28,3 +28,15 @@ operations.
 ### Running the code
 You can run the file `general_cc_truncated.m` in Matlab to perform illuminant estimation with the truncated edge-based color constancy.
 For a demo, you can run the file `ColorConstancyDemo.m`.
+
+### Cite
+If you use the code provided in this repository please cite our original work:
+```
+@inproceedings{bianco2022truncated,
+  title={Truncated Edge-based Color Constancy},
+  author={Bianco, Simone and Buzzelli, Marco},
+  booktitle={2022 IEEE 12th International Conference on Consumer Electronics (ICCE-Berlin)},
+  year={2022},
+  organization={IEEE}
+}
+```
