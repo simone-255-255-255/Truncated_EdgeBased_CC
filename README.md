@@ -1,5 +1,5 @@
 # Truncated Edge-based Color Constancy
-Official implementation of the paper [Truncated Edge-based Color Constancy](https://drive.google.com/file/d/1fL_bD9b4-ac4kkt9G04I2fjdA_MjGXTY/view?usp=sharing)
+Official implementation of the paper [Truncated Edge-based Color Constancy](http://www.ivl.disco.unimib.it/wp-content/files/bianco2022truncated.pdf)
 
 [Simone Bianco](http://www.ivl.disco.unimib.it/people/simone-bianco/)<sup>1</sup>, [Marco Buzzelli](http://www.ivl.disco.unimib.it/people/marco-buzzelli/)<sup>1</sup>
 
